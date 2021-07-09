@@ -1,0 +1,40 @@
+# pose number
+pose_number: 3
+
+# # big map
+# pose1_x: -1.0
+# pose1_y: 0.101
+# pose1_theta: 90
+# # pose 2
+# pose2_x: 1.808
+# pose2_y: 22.172
+# pose2_theta: 0
+# # pose 3
+# pose3_x: -4.625
+# pose3_y: -42.154
+# pose3_theta: 90
+# # pose 4
+# pose4_x: 0
+# pose4_y: 0
+# pose4_theta: 0
+
+
+# big map
+pose1_x: 19.842
+pose1_y: -38.72
+pose1_theta: 0
+# pose 2
+pose2_x: 4.121
+pose2_y: -41.294
+pose2_theta: 90
+# pose 3
+pose3_x: -1.616
+pose3_y: -0.105
+pose3_theta: 90
+# pose 4
+pose4_x: 0
+pose4_y: 0
+pose4_theta: 0
+
+
+

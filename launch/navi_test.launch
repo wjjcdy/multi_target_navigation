@@ -1,0 +1,6 @@
+<launch>
+   <param name="/use_sim_time" value="false" />
+   <node name="navi_test" pkg="navigation_test" type="navigation_test_node" output="screen" respawn="true">
+      <rosparam file="$(find navigation_test)/config/poselist.yaml" command="load" />
+   </node>
+</launch>
